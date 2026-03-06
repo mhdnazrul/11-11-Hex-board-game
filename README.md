@@ -209,8 +209,6 @@ These techniques together produce an AI that is **extremely difficult for human 
 
 ---
 
-## 🎥 Gameplay Video
-
 🎥 **Watch the full demo here:**  
 👉 <a href="https://jumpshare.com/share/HLZ14adg3JKKZucVDtss" target="_blank">Click to Watch Video</a>
 ---
