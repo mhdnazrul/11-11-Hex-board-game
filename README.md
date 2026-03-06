@@ -188,7 +188,7 @@ These techniques together produce an AI that is **extremely difficult for human 
 | **Human vs AI** | You (Blue) vs the Hard AI (Red) — best possible AI config |
 
 ---
-## Adding Images & Videos to README
+## Adding Images & Videos
 
 ### 📸 Screenshots
 
@@ -205,14 +205,6 @@ These techniques together produce an AI that is **extremely difficult for human 
 <p align="center">
   <img src="screenshots/ai_win.png" width="300"/>
   <br><b>AI Win Screen</b>
-</p>
-
----
-
-## 🎬 Animated Demo
-
-<p align="center">
-  <img src="https://jumpshare.com/share/AJkVgOTtZRuHkNWHmxmr" width="500"/>
 </p>
 
 ---
