@@ -194,20 +194,20 @@ These techniques together produce an AI that is **extremely difficult for human 
 ### Screenshots
 Place images in a `screenshots/` folder, then embed:
 ```markdown
-![Start Screen](screenshots/start_screen.png)
-![Gameplay](screenshots/gameplay.png)
+![Start Screen] (https://github.com/mhdnazrul/11-11-Hex-board-game/blob/main/screenshots/start_screen.png)
+![Gameplay](https://github.com/mhdnazrul/11-11-Hex-board-game/blob/main/screenshots/gameplay.png)
 ```
 
 ### Animated GIF
 Record with any screen recorder and convert to GIF:
 ```markdown
-![Demo](screenshots/demo.gif)
+![Demo](https://jumpshare.com/share/AJkVgOTtZRuHkNWHmxmr)
 ```
 
-### Video (YouTube / Google Drive)
+### Video (Online Drive)
 GitHub does not embed videos natively. Link to a thumbnail instead:
 ```markdown
-[![Watch Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://youtu.be/YOUR_VIDEO_ID)
+[![Watch Demo](https://jumpshare.com/share/HLZ14adg3JKKZucVDtss)
 ```
 
 ---
