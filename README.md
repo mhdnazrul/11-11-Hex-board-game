@@ -188,24 +188,39 @@ These techniques together produce an AI that is **extremely difficult for human 
 | **Human vs AI** | You (Blue) vs the Hard AI (Red) — best possible AI config |
 
 ---
-
 ## Adding Images & Videos to README
 
 ### 📸 Screenshots
 
-![Start Screen](screenshots/start_screen.png)  
-![Gameplay](screenshots/gameplay.png)  
-![AI Win](screenshots/ai_win.png)
+<p align="center">
+  <img src="screenshots/start_screen.png" width="300"/>
+  <br><b>Start Screen</b>
+</p>
+
+<p align="center">
+  <img src="screenshots/gameplay.png" width="300"/>
+  <br><b>Gameplay</b>
+</p>
+
+<p align="center">
+  <img src="screenshots/ai_win.png" width="300"/>
+  <br><b>AI Win Screen</b>
+</p>
+
+---
 
 ## 🎬 Animated Demo
 
-![Game Demo](https://jumpshare.com/share/AJkVgOTtZRuHkNWHmxmr)
+<p align="center">
+  <img src="https://jumpshare.com/share/AJkVgOTtZRuHkNWHmxmr" width="500"/>
+</p>
+
+---
 
 ## 🎥 Gameplay Video
 
-▶️ Watch the full demo here:  
-https://jumpshare.com/share/HLZ14adg3JKKZucVDtss
-
+🎥 **Watch the full demo here:**  
+👉 <a href="https://jumpshare.com/share/HLZ14adg3JKKZucVDtss" target="_blank">Click to Watch Video</a>
 ---
 
 ## Future Improvements
