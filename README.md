@@ -192,23 +192,20 @@ These techniques together produce an AI that is **extremely difficult for human 
 ## Adding Images & Videos to README
 
 ### Screenshots
-Place images in a `screenshots/` folder, then embed:
 ```markdown
-![Start Screen] (https://github.com/mhdnazrul/11-11-Hex-board-game/blob/main/screenshots/start_screen.png)
-![Gameplay](https://github.com/mhdnazrul/11-11-Hex-board-game/blob/main/screenshots/gameplay.png)
+![Start Screen](screenshots/start_screen.png)
+![Gameplay](screenshots/gameplay.png)
+![Ai Win](screenshots/ai_win.png)
 ```
 
 ### Animated GIF
 Record with any screen recorder and convert to GIF:
-```markdown
 ![Demo](https://jumpshare.com/share/AJkVgOTtZRuHkNWHmxmr)
-```
 
 ### Video (Online Drive)
 GitHub does not embed videos natively. Link to a thumbnail instead:
-```markdown
 [![Watch Demo](https://jumpshare.com/share/HLZ14adg3JKKZucVDtss)
-```
+
 
 ---
 
@@ -220,7 +217,7 @@ GitHub does not embed videos natively. Link to a thumbnail instead:
 - [ ] **Move timer** — show per-move elapsed time
 - [ ] **Export/import** — save and load game states
 - [ ] **Difficulty selector** — expose depth / time budget in the UI
-- [ ] **Board size selector** — allow 7×7 or 13×13 in the UI
+- [ ] **Board size selector** — allow 7×7, 9x9, and 13×13 in the UI
 - [ ] **Automated tests** — unit tests for win detection, undo, and AI correctness
 
 ---
@@ -236,10 +233,3 @@ Contributions are welcome!
 5. Open a Pull Request
 
 Please follow **PEP 8** style guidelines and add comments for clarity.
-
----
-
-## License
-
-This project is licensed under the **CC0 1.0 Universal (Public Domain)** license.  
-See the [LICENSE](LICENSE) file for details.
