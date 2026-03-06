@@ -191,21 +191,20 @@ These techniques together produce an AI that is **extremely difficult for human 
 
 ## Adding Images & Videos to README
 
-### Screenshots
-```markdown
-![Start Screen](screenshots/start_screen.png)
-![Gameplay](screenshots/gameplay.png)
-![Ai Win](screenshots/ai_win.png)
-```
+### 📸 Screenshots
 
-### Animated GIF
-Record with any screen recorder and convert to GIF:
-![Demo](https://jumpshare.com/share/AJkVgOTtZRuHkNWHmxmr)
+![Start Screen](screenshots/start_screen.png)  
+![Gameplay](screenshots/gameplay.png)  
+![AI Win](screenshots/ai_win.png)
 
-### Video (Online Drive)
-GitHub does not embed videos natively. Link to a thumbnail instead:
-[![Watch Demo](https://jumpshare.com/share/HLZ14adg3JKKZucVDtss)
+## 🎬 Animated Demo
 
+![Game Demo](https://jumpshare.com/share/AJkVgOTtZRuHkNWHmxmr)
+
+## 🎥 Gameplay Video
+
+▶️ Watch the full demo here:  
+https://jumpshare.com/share/HLZ14adg3JKKZucVDtss
 
 ---
 
